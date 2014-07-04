@@ -1,0 +1,9 @@
+.myul {
+  border: 1px solid #000000;
+}
+.myul li {
+  list-style: none;
+}
+ul li:nth-child(odd) {
+  background: #dddddd;
+}
